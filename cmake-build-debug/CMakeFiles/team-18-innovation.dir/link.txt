@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libteam-18-innovation.a CMakeFiles/team-18-innovation.dir/backround.cpp.obj
+C:\MinGW\bin\ranlib.exe libteam-18-innovation.a

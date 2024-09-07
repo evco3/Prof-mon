@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/buttons">
+        <file>fightC.png</file>
+        <file>fightButton.png</file>
+        <file>bagC.png</file>
+        <file>pokeC.png</file>
+        <file>runC.png</file>
+        <file>bagButton.png</file>
+        <file>pokeButton.png</file>
+        <file>runButton.png</file>
+    </qresource>
+</RCC>

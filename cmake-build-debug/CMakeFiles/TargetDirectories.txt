@@ -1,0 +1,3 @@
+C:/Users/trist/CLionProjects/team-18-innovation/cmake-build-debug/CMakeFiles/team-18-innovation.dir
+C:/Users/trist/CLionProjects/team-18-innovation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/trist/CLionProjects/team-18-innovation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
